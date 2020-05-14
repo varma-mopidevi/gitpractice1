@@ -1,0 +1,17 @@
+1. created directory at home.. mkdir folder name
+2.give permissions to directory.. chmod 777
+3.update the ubuntu repository- gitinit
+4.install the git.-- apt-get install git
+5.create the git repository-- git init
+6.assaign username and email to repository--git global config user.name ""
+7.create files in default branch and commited to local repo..cat or vi file name-
+8.create branches,in that create files and commit to local repo--git checkout,git branch
+9.merge the other branches to master branches--git merge
+10.push the files to local repo  to global repo--git push,git reemote origin
+11.pull or clone the files from global repo to local repo.--git clone url
+
+1.code repository- git,github
+2.code build- maven
+3.code integration-jenkins
+4.code delivery--jenkins,bamboo,temcity
+5.containerazation -docker and kubernates 
